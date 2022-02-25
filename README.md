@@ -1,1 +1,1 @@
-# EDA-telecom_churn-analysis2
+# EDA-telecom_churn-analysis
